@@ -57,6 +57,4 @@ Behavioral analytics systems
 Real-time data streaming
 Advanced NLP (BERT / transformers)
 Predictive modeling for sentiment forecasting
-👤 Author
 
-Your Name
